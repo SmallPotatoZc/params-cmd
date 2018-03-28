@@ -1,0 +1,15 @@
+{
+  "name": "params-cmd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "coffeescript": "^2.2.3"
+  },
+  "scripts": {
+    "coffee": "$(yarn bin)/coffee"
+  },
+  "description": "\"命令行参数解析\"",
+  "author": "SmallPotatoZC",
+  "private": false
+}
